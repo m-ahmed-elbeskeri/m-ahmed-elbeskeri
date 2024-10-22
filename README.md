@@ -1,16 +1,12 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:483D8B,100:4B0082&height=200&section=header&text=Mohamed%20Ahmed&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:434968&height=200&section=header&text=Mohamed%20Ahmed&fontSize=50&fontColor=70A4FC&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=Data-Driven%20Chemical%20Engineer&descSize=20&descAlign=50&descAlignY=60&descColor=A9B1D6)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed-elbeskeri-phd-64a52b104/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohamed.ahmed.4894@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=m-ahmed-elbeskeri&style=for-the-badge&color=blueviolet)](https://github.com/m-ahmed-elbeskeri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=70A4FC)](https://www.linkedin.com/in/mohamed-ahmed-elbeskeri-phd-64a52b104/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=70A4FC)](mailto:Mohamed.ahmed.4894@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=m-ahmed-elbeskeri&style=for-the-badge&color=1A1B27&text_color=70A4FC)](https://github.com/m-ahmed-elbeskeri)
 
-</div>
-
-<div align="center">
-  
-> Data-Driven Chemical Engineer | Python Expert | Machine Learning Specialist 
+<img src="https://github-readme-stats.vercel.app/api?username=m-ahmed-elbeskeri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A4FC&icon_color=70A4FC&text_color=A9B1D6" alt="GitHub Stats" />
 
 </div>
 
@@ -20,114 +16,120 @@
 class DataDrivenEngineer:
     def __init__(self):
         # Personal Information
-        self.name = "Mohamed Ahmed"  # 👨‍💼
-        self.role = "Analyst Consultant @ Ricardo EE"  # 💼
-        self.education = "PhD Chemical Engineering"  # 🎓
-        self.location = "United Kingdom"  # 🌍
+        self.name = "Mohamed Ahmed"           # 🧑‍💻
+        self.role = "Analyst Consultant"      # 💼
+        self.company = "Ricardo EE"          # 🏢
+        self.education = "PhD Chemical Eng."  # 🎓
+        self.location = "United Kingdom"      # 🌍
         
-        # Technical Skills Matrix
-        self.skills = {
-            "programming": [
-                "Python",  # 🐍 Primary Language
-                "C++",     # ⚡ Systems Programming
-                "C#",      # 🎮 Application Development
-                "VBA"      # 📊 Legacy Systems
+        # Technical Arsenal
+        self.weapons_of_choice = {
+            "languages": [
+                "Python",      # 🐍 Master Language
+                "C++",         # ⚡ Performance Critical
+                "C#",          # 🎯 Enterprise Apps
+                "VBA"          # 📊 Legacy Systems
             ],
-            "ml_frameworks": [
-                "scikit-learn",  # 🤖 Machine Learning
+            "ai_tools": [
+                "scikit-learn",  # 🤖 ML Magic
                 "TensorFlow",    # 🧠 Deep Learning
                 "PyTorch"        # 🔥 Neural Networks
             ],
             "optimization": [
-                "CPLEX",   # 📈 Mathematical Optimization
-                "Gurobi"   # 🎯 Linear Programming
+                "CPLEX",    # 📈 Mathematical Beast
+                "Gurobi"    # 🎯 Linear Programming
             ],
-            "data_analysis": [
-                "pandas",     # 🐼 Data Manipulation
-                "numpy",      # 🔢 Numerical Computing
-                "matplotlib" # 📊 Data Visualization
+            "data_craft": [
+                "pandas",      # 🐼 Data Wrangling
+                "numpy",       # 🔢 Number Crunching
+                "matplotlib"   # 📊 Visual Stories
             ]
         }
-        
-    def get_expertise(self):
+    
+    def get_superpowers(self):
         return [
-            "Machine Learning & Predictive Modeling",     # 🤖
-            "Optimization & Process Engineering",         # ⚙️
-            "Sustainability & Carbon Capture",            # 🌱
-            "Python Development & Tooling"               # 🛠️
+            "AI & Predictive Sorcery",           # 🤖
+            "Process Optimization Mastery",       # ⚙️
+            "Sustainable Engineering",            # 🌱
+            "Python Architecture & Development"   # 🛠️
         ]
 ```
 
-## 🐍 Python Expertise
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Optimization](https://img.shields.io/badge/Optimization-Expert-00599C?style=for-the-badge&logo=cplex&logoColor=white)
+## 🎯 Technical Arsenal
+
+![Python](https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=70A4FC)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-1A1B27?style=for-the-badge&logo=tensorflow&logoColor=70A4FC)
+![Data Science](https://img.shields.io/badge/Data_Science-1A1B27?style=for-the-badge&logo=numpy&logoColor=70A4FC)
 
 </div>
 
-### Key Python Projects & Implementations
+## 💼 Featured Projects
 
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1A1B27', 'primaryTextColor': '#70A4FC', 'primaryBorderColor': '#434968', 'lineColor': '#70A4FC', 'textColor': '#A9B1D6'}}}%%
 mindmap
-  root((Python))
-    Machine Learning
-      Boiler Condition Monitoring
-      Textile Industry Forecasting
-      Emission Reduction Models
+  root((Technical<br/>Portfolio))
+    AI/ML
+      Boiler Monitoring System
+      Predictive Analytics
+      Emission Reduction
     Optimization
-      CPLEX Integration
-      Gurobi Implementation
-      Process Optimization
-    Data Analysis
-      Scenario Development
-      Impact Assessment
-      Techno-economic Analysis
-    Custom Tools
-      Visual Programming
+      CPLEX Solutions
+      Gurobi Projects
+      Process Enhancement
+    Data Engineering
+      Impact Analysis
+      Scenario Planning
+      Economic Modeling
+    Innovation
+      Custom Tools
       LLM Integration
       Process Simulation
 ```
 
-## 💼 Featured Technical Projects
+## 🚀 Project Highlights
 
-### 🏭 Industrial ML Applications
-- Developed machine learning models for detecting overfire/underfire conditions in industrial boilers
-- Implemented predictive analytics for emission reduction in textile industry
-- Created forecasting models for multi-billion dollar investment scenarios
+### 🏭 Industrial AI Solutions
+- **Smart Boiler Monitor**: ML-powered system for real-time condition monitoring
+- **Emission Oracle**: Predictive analytics for environmental compliance
+- **Investment Analyzer**: ML models for billion-dollar scenario planning
 
-### ⚡ Optimization & Analysis
-- Utilized CPLEX and Gurobi Python APIs for complex system optimization
-- Maximized process profitability in carbon capture systems
-- Developed environmental impact minimization algorithms
-
-### 🛠️ Technical Tools & Frameworks
+### ⚡ Optimization Suite
+- **Process Maximizer**: CPLEX/Gurobi integration for system optimization
+- **Carbon Capture+**: Efficiency optimization for capture systems
+- **Green Solutions**: Environmental impact reduction algorithms
 
 <div align="center">
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+## 🛠️ Tech Stack
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1A1B27?style=for-the-badge&logo=scikit-learn&logoColor=70A4FC)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1A1B27?style=for-the-badge&logo=tensorflow&logoColor=70A4FC)
+![PyTorch](https://img.shields.io/badge/PyTorch-1A1B27?style=for-the-badge&logo=pytorch&logoColor=70A4FC)
+![Pandas](https://img.shields.io/badge/Pandas-1A1B27?style=for-the-badge&logo=pandas&logoColor=70A4FC)
+![NumPy](https://img.shields.io/badge/NumPy-1A1B27?style=for-the-badge&logo=numpy&logoColor=70A4FC)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-ahmed-elbeskeri&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A4FC&fire=70A4FC&currStreakNum=A9B1D6&sideNums=A9B1D6&currStreakLabel=70A4FC&sideLabels=70A4FC&dates=A9B1D6" alt="GitHub Streak" />
 
 </div>
 
-## 🎯 Current Focus
+## 🎯 Current Missions
 
-- 🤖 Developing advanced ML models for industrial applications
-- 📊 Creating data-driven decision support tools
-- 🌍 Implementing sustainable technology solutions
-- 🔧 Building Python tools for process optimization
+- 🤖 Advancing industrial AI applications
+- 📊 Crafting next-gen decision support systems
+- 🌍 Pioneering sustainable tech solutions
+- 🔧 Building robust Python frameworks
 
 ---
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:483D8B,100:4B0082&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:434968&height=100&section=footer)
 
-*"Leveraging Python and ML for sustainable industrial solutions"*
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ahmed-elbeskeri&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A4FC&text_color=A9B1D6" alt="Top Languages" />
+
+*"Engineering a sustainable future through AI and Python"*
 
 </div>
