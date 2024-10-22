@@ -89,58 +89,35 @@ class InnovativeEngineer:
 
 </div>
 
-## 🚀 Innovation Portfolio
+## 💼 Featured Projects
+
+<div align="center">
 
 ```mermaid
-%%{init: {
-  'theme': 'dark',
-  'themeVariables': {
-    'primaryColor': '#2E3440',
-    'primaryTextColor': '#88C0D0',
-    'primaryBorderColor': '#4C566A',
-    'lineColor': '#88C0D0',
-    'secondaryColor': '#3B4252',
-    'tertiaryColor': '#4C566A',
-    'textColor': '#E5E9F0'
-  }
-}}%%
-graph TB
-    subgraph AI_Solutions["🤖 AI Solutions"]
-        A1[Smart Boiler Monitor]
-        A2[Emission Oracle]
-        A3[Predictive Analytics]
-    end
-    
-    subgraph Process_Optimization["⚡ Process Optimization"]
-        B1[System Enhancement]
-        B2[Resource Allocation]
-        B3[Performance Tuning]
-    end
-    
-    subgraph Sustainability["🌱 Sustainability"]
-        C1[Carbon Capture+]
-        C2[Green Solutions]
-        C3[Impact Analysis]
-    end
-    
-    subgraph Innovation["🔧 Innovation"]
-        D1[Custom Tools]
-        D2[Digital Twins]
-        D3[ML Integration]
-    end
-
-    AI_Solutions --> Process_Optimization
-    Process_Optimization --> Sustainability
-    Sustainability --> Innovation
-    Innovation --> AI_Solutions
-
-    style AI_Solutions fill:#3B4252,stroke:#88C0D0,stroke-width:2px
-    style Process_Optimization fill:#3B4252,stroke:#88C0D0,stroke-width:2px
-    style Sustainability fill:#3B4252,stroke:#88C0D0,stroke-width:2px
-    style Innovation fill:#3B4252,stroke:#88C0D0,stroke-width:2px
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#2E3440', 'primaryTextColor': '#88C0D0', 'primaryBorderColor': '#4C566A', 'lineColor': '#88C0D0', 'textColor': '#E5E9F0', 'fontSize': '16px'}}}%%
+mindmap
+  root((Technical<br/>Portfolio))
+    AI/ML
+      Boiler Monitoring System
+      Predictive Analytics
+      Emission Reduction
+    Optimization
+      CPLEX Solutions
+      Gurobi Projects
+      Process Enhancement
+    Data Engineering
+      Impact Analysis
+      Scenario Planning
+      Economic Modeling
+    Innovation
+      Custom Tools
+      LLM Integration
+      Process Simulation
 ```
 
-## 💼 Project Showcase
+</div>
+
+## 🚀 Project Highlights
 
 <table>
 <tr>
