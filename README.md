@@ -37,31 +37,3 @@ tech_stack = {
     "Engineering Tools": ["Process Simulation", "CAD", "CFD"]
 }
 ```
-
-## Key Projects
-
-### Industrial AI Solutions
-- Developed real-time monitoring system for industrial boilers using machine learning
-- Implemented predictive maintenance solutions reducing downtime by 30%
-- Created emissions prediction model for regulatory compliance
-
-### Process Optimization
-- Designed optimization framework for carbon capture systems
-- Implemented resource allocation algorithms for manufacturing processes
-- Developed cost-optimization models for green technology integration
-
-### Sustainability Initiatives
-- Led carbon reduction projects achieving 25% emissions decrease
-- Developed energy efficiency models for industrial processes
-- Created sustainability metrics tracking system
-
-## Current Focus
-- Advancing industrial AI applications
-- Developing sustainable process solutions
-- Optimizing energy efficiency in manufacturing
-
-<div align="center">
-
-*Engineering sustainable solutions through data-driven innovation*
-
-</div>
