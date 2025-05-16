@@ -23,7 +23,7 @@ Chemical Engineer specializing in industrial AI solutions and process optimizati
   - Time series analysis and forecasting
   
 - **Sustainability Engineering**
-  - Carbon capture optimization
+  - Carbon capture optimisation
   - Environmental impact assessment
   - Green technology implementation
 
@@ -33,7 +33,7 @@ Chemical Engineer specializing in industrial AI solutions and process optimizati
 tech_stack = {
     "Languages": ["Python", "C++", "C#"],
     "ML & Data Science": ["TensorFlow", "PyTorch", "scikit-learn", "pandas", "numpy"],
-    "Optimization": ["CPLEX", "Gurobi"],
+    "Optimisation": ["CPLEX", "Gurobi"],
     "Engineering Tools": ["Process Simulation", "CAD", "CFD"]
 }
 ```
