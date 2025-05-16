@@ -12,9 +12,9 @@
 Chemical Engineer specializing in industrial AI solutions and process optimization. Focused on developing data-driven approaches to solve complex engineering challenges, with particular emphasis on sustainability and efficiency improvements.
 
 ### Areas of Expertise
-- **Process Engineering & Optimization**
+- **Process Engineering & Optimisation**
   - Advanced process simulation and modeling
-  - System optimization and resource allocation
+  - System optimisation and resource allocation
   - Performance analysis and enhancement
   
 - **AI & Machine Learning**
