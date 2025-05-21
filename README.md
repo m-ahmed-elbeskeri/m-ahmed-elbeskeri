@@ -38,3 +38,5 @@ tech_stack = {
     "Engineering Tools": ["Process Simulation", "CAD", "CFD"]
 }
 ```
+
+![](https://hit.yhype.me/github/profile?account_id=131454742)
