@@ -3,7 +3,7 @@
 # Mohamed Ahmed
 ### Data-Driven Chemical Engineer | PhD | Analyst Consultant at Ricardo EE
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E3440?style=flat&logo=linkedin&logoColor=88C0D0)](https://www.linkedin.com/in/mohamed-ahmed-elbeskeri-phd-64a52b104/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E3440?style=flat&logo=linkedin&logoColor=88C0D0)](https://www.linkedin.com/in/mohamed-ahmed-elbeskeri-64a52b104/)
 [![Email](https://img.shields.io/badge/Email-2E3440?style=flat&logo=gmail&logoColor=88C0D0)](mailto:Mohamed.ahmed.4894@gmail.com)
 ![](https://komarev.com/ghpvc/?username=m-ahmed-elbeskeri)
 
