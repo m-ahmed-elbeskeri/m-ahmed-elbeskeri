@@ -10,7 +10,7 @@
 </div>
 
 ## About Me
-Chemical Engineer specializing in industrial AI solutions and process optimization. Focused on developing data-driven approaches to solve complex engineering challenges, with particular emphasis on sustainability and efficiency improvements.
+Chemical Engineer specialising in industrial AI solutions and process optimisation. Focused on developing data-driven approaches to solve complex engineering challenges, with particular emphasis on sustainability and efficiency improvements.
 
 ### Areas of Expertise
 - **Process Engineering & Optimisation**
@@ -40,3 +40,5 @@ tech_stack = {
 ```
 
 ![](https://hit.yhype.me/github/profile?account_id=131454742)
+Currently working on:
+https://github.com/m-ahmed-elbeskeri/puffinflow-main
