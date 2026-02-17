@@ -11,7 +11,8 @@ Chemical engineer with a PhD by day, but most of my time goes into writing code 
 
 ## Currently
 
-- **[PuffinFlow](https://github.com/Puffinflow-io/puffinflow)** — LLM workflow orchestration framework. Faster than LangGraph and LlamaIndex in benchmarks. MIT licensed.
+- **[PuffinFlow](https://github.com/Puffinflow-io/puffinflow)** — LLM workflow orchestration framework. Faster than LangGraph and LlamaIndex in benchmarks. Basically just a chance to make something in Rust that I will actually use. MIT licensed.
+- **[volt](https://github.com/volt-api/volt)** — A cool API client made in Zig. MIT licensed.
 
 ## Stack
 
