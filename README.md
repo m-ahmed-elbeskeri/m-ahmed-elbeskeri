@@ -15,10 +15,10 @@ Chemical engineer with a PhD by day, but most of my time goes into writing code 
 
 ## Stack
 
-Python · C++ · C# · TensorFlow · PyTorch · Unreal Engine
+Python · C++ · C# · JS/TS · Rust · Zig (playing around with it now)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed-elbeskeri-64a52b104/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Mohamed.ahmed.4894@gmail.com)
 
 ![](https://hit.yhype.me/github/profile?account_id=131454742)
 Currently working on:
-https://github.com/m-ahmed-elbeskeri/puffinflow-main
+[https://github.com/m-ahmed-elbeskeri/puffinflow-main](https://github.com/Puffinflow-io/puffinflow)
