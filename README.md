@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Mohamed Ahmed
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2E3440?style=flat&logo=linkedin&logoColor=88C0D0)](https://www.linkedin.com/in/mohamed-ahmed-elbeskeri-64a52b104/)
