@@ -1,0 +1,23 @@
+<div>
+
+# Mohamed Ahmed
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E3440?style=flat&logo=linkedin&logoColor=88C0D0)](https://www.linkedin.com/in/mohamed-ahmed-elbeskeri-64a52b104/)
+[![Email](https://img.shields.io/badge/Email-2E3440?style=flat&logo=gmail&logoColor=88C0D0)](mailto:Mohamed.ahmed.4894@gmail.com)
+![](https://komarev.com/ghpvc/?username=m-ahmed-elbeskeri)
+
+I build tools to make my job easier - and other people's ... sometimes. But most times it's whatever rabbit hole I fell into
+
+## Currently
+
+- **[PuffinFlow](https://github.com/Puffinflow-io/puffinflow)** - LLM workflow orchestration framework. Faster than LangGraph and LlamaIndex in benchmarks. Basically just a chance to make something in Rust that I will actually use. MIT licensed.
+- **[volt](https://github.com/volt-api/volt)** - A cool API client made in Zig. MIT licensed.
+
+## Stack
+
+Python · C++ · JS/TS · Rust · Zig (playing around with it now)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed-elbeskeri-64a52b104/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Mohamed.ahmed.4894@gmail.com)
+
+![](https://hit.yhype.me/github/profile?account_id=131454742)
+Currently working on:
+[https://github.com/m-ahmed-elbeskeri/puffinflow-main](https://github.com/Puffinflow-io/puffinflow)
